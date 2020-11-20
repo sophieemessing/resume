@@ -1,14 +1,14 @@
-<h1>Sophie Messing</h1>
+# Sophie Messing
 
-<h6>Seattle, WA | (206) 423-8339 | sophie.e.messing@gmail.com</h6> 
-<h5> [Portfolio](https://sophieemessing.github.io/index.html) | [Github](https://github.com/sophieemessing) | [LinkedIn](https://www.linkedin.com/in/sophie-messing-a3b40264/) </h6> 
----
+
+#### Seattle, WA | (206) 423-8339 | sophie.e.messing@gmail.com
+#### [Portfolio](https://sophieemessing.github.io/index.html) | [Github](https://github.com/sophieemessing) | [LinkedIn](https://www.linkedin.com/in/sophie-messing-a3b40264/) </h6> 
 
 I am a full stack developer in training at Ada Developer's Academy. I love solving problems and understanding how complex systems work.
 
 ---
 
-<h3>Technical Skills</h3>
+### Technical Skills
 
 * Ruby 
 * Ruby on Rails
@@ -28,7 +28,7 @@ I am a full stack developer in training at Ada Developer's Academy. I love solvi
 * Project Management
 * Prepress
 ---
-<h3>Education</h3>
+### Education
   
 **Ada Developer's Academy** <br>
 Seattle, WA | 2020
@@ -39,7 +39,7 @@ Chicago, IL | 2011 - 2020
 * BFA in fine art, printmaking and graphic design
 
 ---
-<h3>Professional Experience</h3>
+### Professional Experience
 
 **Estimator | Girlie Press** <br>
 Seattle, WA | Feb 2019 - Feb 2020 <br>
@@ -71,7 +71,7 @@ Brooklyn, NY | April 2016 - April 2017 <br>
 
 ---
 
-<h3>Volunteering</h3>
+### Volunteering
 
 **Minister of Presence | Recovery Café** <br>
 Seattle, WA | Nov 2018 - May 2019 <br>
