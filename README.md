@@ -77,8 +77,8 @@ Brooklyn, NY | April 2016 - April 2017 <br>
 Seattle, WA | Nov 2018 - May 2019 <br>
 * Shared meals, games, conversation and compassion with community members in recovery from addiction, homelessness, incarceration and abuse
 
-**Screenprinting Instructor** <br>
-Jakmel Ekspresyon | Jacmel, Haiti | Nov 2017 <br>
+**Screenprinting Instructor | Jakmel Ekspresyon** <br>
+Jacmel, Haiti | Nov 2017 <br>
 * Led a screenprinting workshop with a group of 12 entrepreneurial young adults
 * Improved and repaired printmaking facilities with no reliable source of electricity 
 * Our class printed 30 school t-shirts as a collaborative final project
