@@ -45,14 +45,14 @@ Chicago, IL | 2011 - 2020
 Seattle, WA | Feb 2019 - Feb 2020 <br>
 * Collaborated on a team of 2 to create estimates for complex multi-part print projects
 * Planned all production stages from initial design through production and fulfillment 
-* Coordinated materials, processes and outside vendors to create detailed production plans for 20-30 customers in a day, with 2-3 average revisions per estimate within a 24 hour turnaround time.
+* Coordinated materials, processes and outside vendors to create detailed production plans for 20-30 customers in a day, with 2-3 average revisions per estimate within a 24 hour turnaround time
 * Enhanced estimating workflow by generating 120+ commonly used templates and reorganizing product categories, improving time efficiency by 30%
 
 **Prepress Technician | Girlie Press** <br>
 Seattle, WA | Feb 2018 - Feb 2019 <br>
 * Managed Prepress and Design on a team with 1 other technician and 2 production managers in a high-volume specialty print shop with 15 employees
-* Worked with customer-supplied art to ensure that files were press-ready, processing up to 50 tickets in a day. 
-* Designed professional layouts for booklets, brochures, business cards, postcards, packaging, typography and more. 
+* Worked with customer-supplied art to ensure that files were press-ready, processing up to 50 tickets in a day
+* Designed professional layouts for booklets, brochures, business cards, postcards, packaging, typography and more 
 * Enhanced efficiency by writing scripts for handling page layouts in books
 * Improved plating workflow by templatizing 40+ commonly used press sheet layouts, eliminating a cumbersome 5-step setup process
 
@@ -60,14 +60,14 @@ Seattle, WA | Feb 2018 - Feb 2019 <br>
 Crowd Cow | Seattle, WA | April 2017 - Nov 2017 <br> 
 * Utilized dev tools to allocate cuts of beef and poultry into user-friendly shares, and pushed new product lots to ecommerce website up to 3x a day
 * Increased social media followers from 1,200 to 10,000+ followers through original content and influencer partnerships across 10+ demographics
-* Directed, produced, shot and edited photo and video shoots, creating original content to post 2-3x per day. 
+* Directed, produced, shot and edited photo and video shoots, creating original content to post 2-3x per day 
 
 **Project Manager | Rolling Press** <br>
 Brooklyn, NY | April 2016 - April 2017 <br>
 * Oversaw production of digital and offset jobs in an environmentally-friendly commercial print shop, managing up to 20 projects per day
-* Consistently provided face-to-face and phone technical support and creative solutions to clients.
+* Consistently provided face-to-face and phone technical support and creative solutions to clients
 * Managed estimating, prepress, proofing and fulfillment within an agile team of 5 
-* Drove inside sales and outsourced jobs to industry vendors.
+* Drove inside sales and outsourced jobs to industry vendors
 
 ---
 
@@ -75,7 +75,7 @@ Brooklyn, NY | April 2016 - April 2017 <br>
 
 **Minister of Presence | Recovery Café** <br>
 Seattle, WA | Nov 2018 - May 2019 <br>
-* Shared meals, games, conversation and compassion with members of the Recovery Café community in recovery from addiction, homelessness, incarceration and abuse.
+* Shared meals, games, conversation and compassion with community members in recovery from addiction, homelessness, incarceration and abuse
 
 **Screenprinting Instructor** <br>
 Jakmel Ekspresyon | Jacmel, Haiti | Nov 2017 <br>
