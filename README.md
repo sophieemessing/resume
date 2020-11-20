@@ -32,7 +32,8 @@ I am a full stack developer in training at Ada Developer's Academy. I love solvi
   
 **Ada Developer's Academy** <br>
 Seattle, WA | 2020
-* Full-stack web development and leadership training intensive
+* Full-stack web development
+* Leadership training with an emphasis on social justice and reform
 
 **The School of the Art Institute of Chicago** <br> 
 Chicago, IL | 2011 - 2020
