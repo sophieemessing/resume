@@ -37,7 +37,7 @@ Seattle, WA | 2020
 
 **The School of the Art Institute of Chicago** <br> 
 Chicago, IL | 2011 - 2020
-* BFA in fine art, printmaking and graphic design
+* BFA in Fine Art, Printmaking and Visual Communications
 
 ---
 ### Professional Experience
